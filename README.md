@@ -11,7 +11,7 @@
 
 
 # :jigsaw: ***Téléchargement***
-**[Dernière version du Salaire100](https://github.com/cole100st/Bill100/releases/tag/BILL100)**
+**[Dernière version du Salaire100](https://github.com/cole100st/Salaire100/releases/tag/Salaire100)**
 
 # :computer: ***Contact***
 Si vous avez un *problème*, des *questions* ou des *suggestions*, je suis disponible en **MP** (*cole100st*).
